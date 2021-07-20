@@ -5,9 +5,9 @@
 My name is Alfian Hidayatulloh and I’m currently studying at University of Technology Yogyakarta, Indonesia. I’m interested in python, R, SQL, data analysis & visualization, and machine learning. I’m looking to collaborate on numerous projects about big data, NLP, expert systems, and and other related things. You can reach me through email: hidayatullohalfian@gmail.com or [![LinkedIn][1.1]][1]
 
 ## :computer: Technologies & Tools
-![](https://badgen.net/badge/icon/windows?icon=windows&label=OS)
-![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label=Editor)
-![](https://badgen.net/badge/icon/Python?icon=python&label=Code)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
