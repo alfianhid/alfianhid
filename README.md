@@ -2,7 +2,7 @@
 
 # Hey folks! <img src="https://raw.githubusercontent.com/alfianhid/alfianhid/main/wave-icon.gif" width="30px">
 
-My name is Alfian Hidayatulloh. I’m 21 and currently studying at University of Technology Yogyakarta, Indonesia. I’m interested in Python, R, SQL, data analysis & visualization, and machine learning. I’m looking to collaborate on numerous projects about big data, NLP, expert systems, and and other related things. You can reach me through [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=DB4437&message=hidayatullohalfian@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:hidayatullohalfian@gmail.com) or [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfianhid)
+My name is Alfian Hidayatulloh. I’m 21 and currently studying at University of Technology Yogyakarta, Indonesia. I’m interested in Python, R, SQL, data analysis & visualization, and machine learning. I’m looking to collaborate on numerous projects about big data, NLP, expert systems, and and other related things. You can reach me through [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=DB4437&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:hidayatullohalfian@gmail.com) or [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfianhid)
 
 ## :computer: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
