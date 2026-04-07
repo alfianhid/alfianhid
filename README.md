@@ -27,7 +27,6 @@ I design and develop production-grade data pipelines using modern data stack too
 
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/santifer.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://alfianhidayatulloh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfianhid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@alfianhidayatulloh.com)
 
